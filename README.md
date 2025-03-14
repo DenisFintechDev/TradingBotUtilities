@@ -8,7 +8,8 @@ This repository contains scripts for a trading bot project developed by Denis Sh
 
 ## Technologies
 - Python
-- Webull API
+- Interactive Brokers API (official)
+- Custom Webull data integration (unofficial)
 - Reinforcement Learning (PPO)
 
 ## Purpose
