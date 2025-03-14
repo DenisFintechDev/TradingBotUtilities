@@ -1,3 +1,5 @@
+# This is a sample code demonstrating how to fetch market data using Interactive Brokers API.
+# Requires ibapi package (pip install ibapi) and a running TWS/IB Gateway instance.
 from ibapi.client import EClient
 from ibapi.wrapper import EWrapper
 from ibapi.contract import Contract
